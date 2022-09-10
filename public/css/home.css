@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.danger{
+    color: red;
+    font-size: 40px;
+}
+.mynavbar {
+    padding: 0;
+    background: rgba(28, 28, 28, 0.1) url('../img/hb.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+body {
+    color: black;
+    background-color: rgb(241, 241, 243);
+}
+
+.firstContainer {
+    /* width: 100%; */
+    background: rgba(20, 20, 20, 0.0) url('../img/hb.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+    height: 100vh;
+}
+
+.aboutme {
+    width: 50%;
+}
+
+p {
+    color: rgb(73, 109, 219);
+}
+
+.center {
+    margin: auto;
+    margin-top: 20px;
+    /* border-radius: 70px; */
+}
+
+/* .card img{
+    transition: all 0.8s ease-in-out;
+}
+.card img:hover{
+    width: 600px;
+} */
